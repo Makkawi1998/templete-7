@@ -26,3 +26,5 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+new WOW().init();
